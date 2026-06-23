@@ -10,3 +10,6 @@ It contain all the practice problem that was done during learning of Python Lang
 #program to conver kilomter to cm and meter
 #Given number is even or odd
 #Write a program to check leap year or not
+
+# Day2 :
+find largest of given three numbers
