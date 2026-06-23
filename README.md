@@ -20,4 +20,7 @@ find temp in F from temp in C
 find factorial of the given number
 find multiplication table
 find fibonacci series
+find given number is armstrong or not
+find all armstrong in given range
+find sum of natural numbers
 
