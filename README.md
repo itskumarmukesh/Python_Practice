@@ -13,3 +13,11 @@ It contain all the practice problem that was done during learning of Python Lang
 
 # Day2 :
 find largest of given three numbers
+find the given number is prime number
+Generate a random number
+Find all the prime number in the given range
+find temp in F from temp in C
+find factorial of the given number
+find multiplication table
+find fibonacci series
+
