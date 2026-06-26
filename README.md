@@ -24,3 +24,5 @@ find given number is armstrong or not
 find all armstrong in given range
 find sum of natural numbers
 
+# Day3 :
+
