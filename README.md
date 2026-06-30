@@ -28,3 +28,10 @@ find sum of natural numbers
 power of 2
 2 raise to power n
 check divisble number from given range 
+write number in binary, octal, hexadecimal
+find the ascii value of the given character
+find HCF or GCD
+find factors of a number
+mini calculator
+suffle deck of card
+display calender
