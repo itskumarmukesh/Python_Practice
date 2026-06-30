@@ -25,4 +25,6 @@ find all armstrong in given range
 find sum of natural numbers
 
 # Day3 :
-
+power of 2
+2 raise to power n
+check divisble number from given range 
