@@ -35,3 +35,5 @@ find factors of a number
 mini calculator
 suffle deck of card
 display calender
+fibonacci sequence using recursion
+sum of natural numbers using recusion
